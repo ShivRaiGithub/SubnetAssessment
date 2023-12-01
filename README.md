@@ -1,8 +1,7 @@
 # AVAX-Advanced
 ## Subnet Assessment
 
-These Solidity contracts contains simple programs that allow someone to work with tokens. The deployment and testing were done on an avalanche subnet on local-network.
-
+These Solidity contracts contains simple programs that allow someone to work with tokens. The deployment and testing were done on an avalanche subnet.
 
 
 
@@ -25,6 +24,7 @@ However for this, a subnet was created on avalanche along with a Virtual Machine
 
 You can deploy the contracts on Remix and start interacting with them.
 Copy / fork contracts and then click compile to compile the contracts. Afterwards click on deploy and the contract will be deployed to interact with it.
+If you wish to do it with a subnet, you will have to create your own subnet using avalanche cli.
 
 
 
